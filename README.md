@@ -1,2 +1,3 @@
-# simulate-data
+# Training repository
+
 A repo for learning GitHub
